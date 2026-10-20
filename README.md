@@ -44,8 +44,8 @@ The simulated enterprise network consists of:
 
 This project was completed collaboratively by:
 
-1. Biron Shaluka -
-2. Janith Vithanage-
+1. Biron Shaluka 
+2. Janith Vithanage
 3. Sasmitha kariyawasam 
 
 ## How to Explore the Project
